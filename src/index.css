@@ -1,0 +1,9 @@
+.container-list {
+	width: 700px;
+}
+
+@media (max-width: 720px) {
+	.container-list {
+		width: 90%;
+	}
+}
